@@ -1,4 +1,5 @@
-# OER6_GLVSSARI_PERIVALLON
+# OER6_«Γλωσσάρι - Περιβάλλον»
+ https://frinikos.github.io/OER6_GLVSSARI_PERIVALLON/
  
 Γνωστικό Αντικείμενο: Νεοελληνική Γλώσσα Α΄ Γυμνασίου, «Γλωσσάρι - Περιβάλλον».
 
